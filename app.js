@@ -36,7 +36,7 @@ function dbconnection(){
 	assert = require("assert");
 
 	// Connection URL
-	const url = "mongodb://advohire:12345678911@cluster0-shard-00-00-1hcrp.mongodb.net:27017,cluster0-shard-00-01-1hcrp.mongodb.net:27017,cluster0-shard-00-02-1hcrp.mongodb.net:27017/advohire?ssl=true&replicaSet=Cluster0-shard-0&authSource=admin&retryWrites=true";
+	const url = "";
 
 
 	// Use connect method to connect to the server
